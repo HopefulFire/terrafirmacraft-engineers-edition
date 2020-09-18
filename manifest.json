@@ -1,1 +1,158 @@
-manifest.json
+{
+	"minecraft":
+	{
+		"version": "1.12.2",
+		"modloaders":
+		[
+			{
+				"id": "forge-14.23.5.2854",
+				"primary": true
+			}
+		]
+	},
+	"manifestType": "minecraftModpack",
+	"manifestVersion": 1,
+	"name": "TFCEE",
+	"version": "0.0.1",
+	"author": "Jade Lynn Masker",
+	"files":
+	[
+		{
+			"projectID": 232650, // AutoOreDictionaryConverter
+			"fileID": 2606596, // 1.0.1
+			"required": true
+		},
+		{
+			"projectID": 250363, // AutoRegLib
+			"fileID": 2746011, // 1.3.32
+			"required": true
+		},
+		{
+			"projectID": 229876, // BetterFPS
+			"fileID": 2483393, // 1.4.8
+			"required": true
+		},
+		{
+			"projectID": 239197, // CraftTweaker
+			"fileID": 3040575, // 4.1.20
+			"required": true
+		},
+		{
+			"projectID": 257814, // CreativeCore
+			"fileID": 3059009, // 1.10.25
+			"required": true
+		},
+		{
+			"projectID": 299540, // FastFurnace
+			"fileID": 2706111, // 1.3.1
+			"required": true
+		},
+		{
+			"projectID": 288885, // FastWorkbench
+			"fileID": 2838777, // 1.7.3
+			"required": true
+		},
+		{
+			"projectID": 278494, // FoamFix
+			"fileID": 2845668, // 0.10.10
+			"required": true
+		},
+		{
+			"projectID": 225957, // HardcoreDarkness
+			"fileID": 2499443, // 2.0.0
+			"required": true
+		},
+		{
+			"projectID": 253449, // HWYLA
+			"fileID": 2568751, // 1.8.26
+			"required": true
+		},
+		{
+			"projectID": 271492, // IKWID
+			"fileID": 2469710, // 1.0.2
+			"required": true
+		},
+		{
+			"projectID": 283992, // ImmersiveCables
+			"fileID": 2595013, // 1.3.2
+			"required": true
+		},
+		{
+			"projectID": 231951, // ImmersiveEngineering
+			"fileID": 2974106, // 0.12.0
+			"required": true
+		},
+		{
+			"projectID": 258587, // ItemPhysicFull
+			"fileID": 2959712, // 1.4.34
+			"required": true
+		},
+		{
+			"projectID": 238222, // JEI
+			"fileID": 3040523, // 4.16.1
+			"required": true
+		},
+		{
+			"projectID": 229595, // MDECore
+			"fileID": 2617399, // 1.1.0
+			"required": true
+		},
+		// Optifine (Should install)
+		{
+			"projectID": 318255, // Phosphor (Checkout the mod and shout the dev out!)
+			"fileID": 2747710, // 0.2.6
+			"required": true
+		},
+		{
+			"projectID": 243121, // Quark
+			"fileID": 2889332, // 1.6.0
+			"required": true
+		},
+		{
+			"projectID": 51195, // Railcraft
+			"fileID": 2687757, // 12.0.0
+			"required": true
+		},
+		{
+			"projectID": 243076, // RefinedStorage
+			"fileID": 2940914, // 1.6.16
+			"required": true
+		},
+		{
+			"projectID": 302973, // Terrafirmacraft
+			"fileID": 3050280, // 1.7.3
+			"required": true
+		},
+		{
+			"projectID": 339156, // TFCMetallum
+			"fileID": 2978708, // 1.3.0
+			"required": true
+		},
+		{
+			"projectID": 340660, // TFCTechUnofficial
+			"fileID": 3020017, // 1.2.14
+			"required": true
+		},
+		{
+			"projectID": 292785, // VanillaFix
+			"fileID": 2915154, // 1.0.10
+			"required": true
+		},
+		{
+			"projectID": 354353, //TFCWaterFlasks
+			"fileID": 2944021, // 1.7.0
+			"required": true
+		},
+		{
+			"projectID": 263466, // XaerosMinimap(FairPlayEdition)
+			"fileID": 3059229, // 20.22.0
+			"required": true
+		},
+		{
+			"projectID": 317780, // XaerosWorldMap
+			"fileID": 3048340, // 1.10.3
+			"required": true
+		},
+	],
+	"overrides": "overrides"
+}
