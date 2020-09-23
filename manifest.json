@@ -114,7 +114,7 @@
 			"required": true
 		},
 		{
-			"name": "Phosphor(Checkout the mod and shout the dev out!) 0.2.6",
+			"name": "Phosphor 0.2.6",
 			"projectID": 318255,
 			"fileID": 2747710,
 			"required": true
@@ -132,9 +132,9 @@
 			"required": true
 		},
 		{
-			"name": "RefinedStorage 1.6.16",
-			"projectID": 243076,
-			"fileID": 2940914,
+			"name": "SimpleStorageNetwork 1.7.11",
+			"projectID": 268495,
+			"fileID": 2990638,
 			"required": true
 		},
 		{
