@@ -24,7 +24,7 @@
 			"required": true
 		},
 		{
-			"name": "AutoRegLib 1.3.32",
+			"name": "AutoRegLib 1.3",
 			"projectID": 250363,
 			"fileID": 2746011,
 			"required": true
@@ -144,21 +144,21 @@
 			"required": true
 		},
 		{
-			"name": "Terrafirmacraft 1.7.3",
+			"name": "Terrafirmacraft 1.7.4",
 			"projectID": 302973,
-			"fileID": 3050280,
+			"fileID": 3066191,
 			"required": true
 		},
 		{
-			"name": "TFCMetallum 1.3.0",
+			"name": "TFCMetallum 1.4.0",
 			"projectID": 339156,
-			"fileID": 2978708,
+			"fileID": 3062588,
 			"required": true
 		},
 		{
-			"name": "TFCTechUnofficial 1.2.14",
+			"name": "TFCTechUnofficial 1.2.15",
 			"projectID": 340660,
-			"fileID": 3020017,
+			"fileID": 3062614,
 			"required": true
 		},
 		{
