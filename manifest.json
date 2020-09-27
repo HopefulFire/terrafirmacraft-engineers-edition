@@ -18,6 +18,12 @@
 	"files":
 	[
 		{
+			"name": "AntiqueAtlas",
+			"projectID": 227795,
+			"fileID": 2823030,
+			"reqired": true
+		},
+		{
 			"name": "AutoOreDictionaryConverter 1.0.1",
 			"projectID": 232650,
 			"fileID": 2606596,
@@ -171,18 +177,6 @@
 			"name": "TFCWaterFlasks 1.7.0",
 			"projectID": 354353,
 			"fileID": 2944021,
-			"required": true
-		},
-		{
-			"name": "XaerosMinimap(FairPlayEdition) 20.22.0",
-			"projectID": 263466,
-			"fileID": 3059229,
-			"required": true
-		},
-		{
-			"name": "XaerosWorldMap 1.10.3",
-			"projectID": 317780,
-			"fileID": 3048340,
 			"required": true
 		}
 	],
