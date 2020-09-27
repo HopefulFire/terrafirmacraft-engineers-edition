@@ -78,6 +78,12 @@
 			"required": true
 		},
 		{
+			"name": "Forglin 1.8.4",
+			"projectID": 248453,
+			"fileID": 2785465,
+			"required": true
+		},
+		{
 			"name": "HardcoreDarkness 2.0.0",
 			"projectID": 225957,
 			"fileID": 2499443,
@@ -118,6 +124,12 @@
 			"projectID": 238222,
 			"fileID": 3040523,
 			"required": true
+		},
+		{
+			"name": "LingeringLoot 4.4",
+			"projectID": 245041,
+			"fileID": 2698689,
+			"reqired": true
 		},
 		{
 			"name": "MDECore 1.1.0",
