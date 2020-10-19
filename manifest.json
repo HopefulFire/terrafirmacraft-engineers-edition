@@ -156,9 +156,9 @@
 			"required": true
 		},
 		{
-			"name": "Terrafirmacraft 1.7.4",
+			"name": "Terrafirmacraft 1.7.5",
 			"projectID": 302973,
-			"fileID": 3066191,
+			"fileID": 3077761,
 			"required": true
 		},
 		{
@@ -174,15 +174,15 @@
 			"required": true
 		},
 		{
-			"name": "VanillaFix 1.0.10",
-			"projectID": 292785,
-			"fileID": 2915154,
+			"name": "TFCWaterFlasks 1.8.0",
+			"projectID": 354353,
+			"fileID": 3082596,
 			"required": true
 		},
 		{
-			"name": "TFCWaterFlasks 1.7.0",
-			"projectID": 354353,
-			"fileID": 2944021,
+			"name": "VanillaFix 1.0.10",
+			"projectID": 292785,
+			"fileID": 2915154,
 			"required": true
 		}
 	],
