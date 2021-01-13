@@ -168,6 +168,12 @@
 			"required": true
 		},
 		{
+			"name": "TFCMedicinal 1.0.6",
+			"projectID": 414233,
+			"fileID": 3137708,
+			"required": true
+		},
+		{
 			"name": "TFCMetallum 1.4.0",
 			"projectID": 339156,
 			"fileID": 3062588,
