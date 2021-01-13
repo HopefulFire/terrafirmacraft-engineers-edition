@@ -84,12 +84,6 @@
 			"required": true
 		},
 		{
-			"name": "Forglin 1.8.4",
-			"projectID": 248453,
-			"fileID": 2785465,
-			"required": true
-		},
-		{
 			"name": "HardcoreDarkness 2.0.0",
 			"projectID": 225957,
 			"fileID": 2499443,
@@ -108,12 +102,6 @@
 			"required": true
 		},
 		{
-			"name": "ImmersiveEngineering 0.12.0-98",
-			"projectID": 231951,
-			"fileID": 2974106,
-			"required": true
-		},
-		{
 			"name": "ItemPhysicFull 1.4.34",	
 			"projectID": 258587,
 			"fileID": 2959712,
@@ -123,18 +111,6 @@
 			"name": "JEI 4.16.1",
 			"projectID": 238222,
 			"fileID": 3040523,
-			"required": true
-		},
-		{
-			"name": "MDECore 1.1.0",
-			"projectID": 229595,
-			"fileID": 2617399,
-			"required": true
-		},
-		{
-			"name": "Railcraft 12.0.0",
-			"projectID": 51195,
-			"fileID": 2687757,
 			"required": true
 		},
 		{
