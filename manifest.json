@@ -119,12 +119,7 @@
 			"fileID": 3040523,
 			"required": true
 		},
-		{
-			"name": "LingeringLoot 4.4",
-			"projectID": 245041,
-			"fileID": 2698689,
-			"reqired": true
-		},
+
 		{
 			"name": "MDECore 1.1.0",
 			"projectID": 229595,
