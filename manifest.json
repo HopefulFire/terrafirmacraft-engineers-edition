@@ -168,6 +168,12 @@
 			"required": true
 		},
 		{
+			"name": "TFCStorage 1.0.7",
+			"projectID": 405263,
+			"fileID": 3110036,
+			"required": true
+		},
+		{
 			"name": "TFCTechUnofficial 1.2.15",
 			"projectID": 340660,
 			"fileID": 3062614,
