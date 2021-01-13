@@ -42,9 +42,9 @@
 			"required": true
 		},
 		{
-			"name": "CreativeCore 1.10.29",
+			"name": "CreativeCore 1.10.40",
 			"projectID": 257814,
-			"fileID": 3084419,
+			"fileID": 3164679,
 			"required": true
 		},
 		{
@@ -150,9 +150,9 @@
 			"required": true
 		},
 		{
-			"name": "Terrafirmacraft 1.7.5",
+			"name": "Terrafirmacraft 1.7.10",
 			"projectID": 302973,
-			"fileID": 3077761,
+			"fileID": 3136903,
 			"required": true
 		},
 		{
