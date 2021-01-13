@@ -144,6 +144,12 @@
 			"required": true
 		},
 		{
+			"name": "Rocksalt 1.0.3",
+			"projectID": 398969,
+			"fileID": 3094298,
+			"required": true
+		},
+		{
 			"name": "SimpleStorageNetwork 1.7.11",
 			"projectID": 268495,
 			"fileID": 2990638,
