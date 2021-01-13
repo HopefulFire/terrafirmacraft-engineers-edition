@@ -36,6 +36,12 @@
 			"required": true
 		},
 		{
+			"name": "CellarsAddon 1.22.6",
+			"projectID": 431185,
+			"fileID": 3156612,
+			"required": true
+		},
+		{
 			"name": "CreativeCore 1.10.40",
 			"projectID": 257814,
 			"fileID": 3164679,
