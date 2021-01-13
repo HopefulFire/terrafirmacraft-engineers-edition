@@ -144,6 +144,12 @@
 			"required": true
 		},
 		{
+			"name": "TerraFirmaThings 1.3.2",
+			"projectID": 386285,
+			"fileID": 3131022,
+			"required": true
+		}
+		{
 			"name": "TFCMetallum 1.4.0",
 			"projectID": 339156,
 			"fileID": 3062588,
