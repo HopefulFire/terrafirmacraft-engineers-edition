@@ -18,12 +18,6 @@
 	"files":
 	[
 		{
-			"name": "AntiqueAtlas",
-			"projectID": 227795,
-			"fileID": 2823030,
-			"reqired": true
-		},
-		{
 			"name": "AutoOreDictionaryConverter 1.0.1",
 			"projectID": 232650,
 			"fileID": 2606596,
