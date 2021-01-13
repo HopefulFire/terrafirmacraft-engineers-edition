@@ -30,6 +30,12 @@
 			"required": true
 		},
 		{
+			"name": "Backups 1.5.6",
+			"projectID": 293610,
+			"fileID": 2982470,
+			"required": true
+		},
+		{
 			"name": "BetterFPS 1.4.8",
 			"projectID": 229876,
 			"fileID": 2483393,
@@ -45,12 +51,6 @@
 			"name": "CreativeCore 1.10.40",
 			"projectID": 257814,
 			"fileID": 3164679,
-			"required": true
-		},
-		{
-			"name": "Backups 1.5.6",
-			"projectID": 293610,
-			"fileID": 2982470,
 			"required": true
 		},
 		{
