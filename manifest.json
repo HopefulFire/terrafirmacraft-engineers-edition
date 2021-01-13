@@ -66,9 +66,9 @@
 			"required": true
 		},
 		{
-			"name": "FoamFix 0.10.10",
+			"name": "FoamFix 0.10.11",
 			"projectID": 278494,
-			"fileID": 2845668,
+			"fileID": 3137883,
 			"required": true
 		},
 		{
