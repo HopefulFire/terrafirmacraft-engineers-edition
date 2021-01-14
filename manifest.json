@@ -168,12 +168,6 @@
 			"required": true
 		},
 		{
-			"name": "TFCTechUnofficial 1.2.15",
-			"projectID": 340660,
-			"fileID": 3062614,
-			"required": true
-		},
-		{
 			"name": "TFCWaterFlasks 1.8.0",
 			"projectID": 354353,
 			"fileID": 3082596,
