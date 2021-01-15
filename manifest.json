@@ -114,6 +114,24 @@
 			"required": true
 		},
 		{
+			"name": "MegaMap 1.1.0",
+			"projectID": 303090,
+			"fileID": 2629551,
+			"required": true
+		},
+		{
+			"name": "Palimpsest 1.2.3",
+			"projectID": 257612,
+			"fileID": 2599430,
+			"required": true
+		},
+		{
+			"name": "Pantography 2.0.2",
+			"projectID": 257873,
+			"fileID": 2618094,
+			"required": true
+		},
+		{
 			"name": "Rocksalt 1.0.3",
 			"projectID": 398969,
 			"fileID": 3094298,
@@ -178,6 +196,11 @@
 			"projectID": 292785,
 			"fileID": 2915154,
 			"required": true
+		},
+		{
+			"name": "WumpleUtilLibrary 2.12.9",
+			"projectID": 298323,
+			"fileID": 2849447
 		}
 	],
 	"overrides": "overrides"
