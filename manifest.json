@@ -174,12 +174,6 @@
 			"required": true
 		},
 		{
-			"name": "TFCMetallum 1.4.0",
-			"projectID": 339156,
-			"fileID": 3062588,
-			"required": true
-		},
-		{
 			"name": "TFCRocks+",
 			"projectID": 376298,
 			"fileID": 3112336,
