@@ -18,9 +18,9 @@
 	"files":
 	[
 		{
-			"name": "AmbientSounds 3.1.4",
+			"name": "AmbientSounds 3.1.5",
 			"projectID": 254284,
-			"fileID": 3140453,
+			"fileID": 3223298,
 			"required": true
 		},
 		{
@@ -42,33 +42,33 @@
 			"required": true
 		},
 		{
-			"name": "CraftTweaker 4.1.20",
+			"name": "CraftTweaker 4.1.20.618",
 			"projectID": 239197,
-			"fileID": 3040575,
+			"fileID": 3202907,
 			"required": true
 		},
 		{
-			"name": "CreativeCore 1.10.40",
+			"name": "CreativeCore 1.10.45",
 			"projectID": 257814,
-			"fileID": 3164679,
+			"fileID": 3198625,
 			"required": true
 		},
 		{
-			"name": "DynamicTrees 0.9.21",
+			"name": "DynamicTrees 0.9.22",
 			"projectID": 252818,
-			"fileID": 3105281,
+			"fileID": 3205337,
 			"required": true
 		},
 		{
-			"name": "DynamicTreesTFC 0.9.15",
+			"name": "DynamicTreesTFC 0.9.16",
 			"projectID": 362368,
-			"fileID": 3097841,
+			"fileID": 3178237,
 			"required": true
 		},
 		{
-			"name": "EnhancedVisuals",
+			"name": "EnhancedVisuals 1.3.24",
 			"projectID": 255389,
-			"fileID": 3135685,
+			"fileID": 3186515,
 			"required": true
 		},
 		{
@@ -144,15 +144,15 @@
 			"required": true
 		},
 		{
-			"name": "Terrafirmacraft 1.7.10",
+			"name": "Terrafirmacraft 1.7.16",
 			"projectID": 302973,
-			"fileID": 3136903,
+			"fileID": 3228675,
 			"required": true
 		},
 		{
-			"name": "TerraFirmaThings 1.3.2",
+			"name": "TerraFirmaThings 1.3.4",
 			"projectID": 386285,
-			"fileID": 3131022,
+			"fileID": 3176769,
 			"required": true
 		},
 		{
